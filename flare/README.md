@@ -1,4 +1,4 @@
-# Torch Trainer 
+# Torch Trainer (Archive)
 
 <div align="center">
   <img src="./src/flare.svg" alt="" style="width: 120px"/>
@@ -7,8 +7,6 @@
 </div>
 
 ---
-
-I'm working on it...
 
 - Train
   - validation

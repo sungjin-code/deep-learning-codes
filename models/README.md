@@ -1,12 +1,12 @@
 # 딥러닝 모델 구현 및 분석
 
-- CNN + MNIST: [BLOG](https://denev6.github.io/computer-vision/2022/12/15/cnn.html)
-- VAE: [BLOG](https://denev6.github.io/computer-vision/2025/01/29/vae.html)
+- CNN + MNIST
+- VAE: [BLOG](https://denev6.github.io/posts/vae)
   - Auto Encoder
-- HOG Descriptor: [BLOG](https://denev6.github.io/paper-review/2025/01/27/hog.html)
-- AlexNet: [BLOG](https://denev6.github.io/paper-review/2025/01/31/alexnet.html)
-- ViTransformer: [BLOG](https://denev6.github.io/paper-review/2025/02/06/vit.html)
-- FCN: [BLOG](https://denev6.github.io/computer-vision/2025/02/08/fcn.html)
+- HOG Descriptor: [BLOG](https://denev6.github.io/posts/hog)
+- AlexNet
+- ViTransformer: [BLOG](https://denev6.github.io/posts/vit)
+- FCN
 
 ## 참고 문헌
 
