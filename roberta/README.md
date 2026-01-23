@@ -5,4 +5,4 @@
 - 기록: [BLOG](https://denev6.github.io/posts/dacon-roberta)
 - 대회 결과: Public-4th, Awards-2nd
 
-![Ranked in 2/259](https://denev6.github.io/assets/posts/dacon-2022/award.png)
+![Ranked in 2/259](https://denev6.github.io/assets/posts/dacon-2022/award.webp)
