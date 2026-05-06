@@ -5,7 +5,7 @@
 ## 내용
 
 - Filters: [C++](/OpencvCpp/src/basic/filter.cpp)
-- Transformation: [C++](/OpencvCpp/src/geometry/transform.cpp) | [BLOG](https://denev6.github.io/posts/transformation)
-- Edge detection: [C++](/OpencvCpp/src/geometry/edge.cpp) | [BLOG](https://denev6.github.io/posts/edge-detection)
+- Transformation: [C++](/OpencvCpp/src/geometry/transform.cpp) | [BLOG](https://sungjin-code.github.io/posts/transformation)
+- Edge detection: [C++](/OpencvCpp/src/geometry/edge.cpp) | [BLOG](https://sungjin-code.github.io/posts/edge-detection)
 - Object detection: [C++](/OpencvCpp/src/geometry/detection.cpp)
 - Deep learning: [Run](/OpencvCpp/src/machine-learning/cnn_mnist.cpp) | [Train](/OpencvCpp/src/machine-learning/cnn_onnx.ipynb)

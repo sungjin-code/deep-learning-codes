@@ -3,9 +3,9 @@
 - CNN + MNIST
 - VAE: [BLOG](https://denev6.github.io/posts/vae)
   - Auto Encoder
-- HOG Descriptor: [BLOG](https://denev6.github.io/posts/hog)
+- HOG Descriptor: [BLOG](https://sungjin-code.github.io/posts/hog)
 - AlexNet
-- ViTransformer: [BLOG](https://denev6.github.io/posts/vit)
+- ViTransformer: [BLOG](https://sungjin-code.github.io/posts/vit)
 - FCN
 
 ## 참고 문헌
